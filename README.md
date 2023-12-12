@@ -1,3 +1,7 @@
+<h1 align="center">
+    <a href="https://sites.google.com/view/krishna-page/about"><img src="./doc/logo.jpg" alt="Krishna Kumar" width="550"></a>
+</h1>
+
 # Welcome to GitHub Account of Mr. Krishna Kumar
 This is my first repo adding to my github account.
 
