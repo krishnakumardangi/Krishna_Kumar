@@ -6,11 +6,6 @@
 This is my first repo adding to my github account.
 
 
-# Private Repository
-* SomePythonCode
-* hackrf_one
-
-
 # Public Repositoty
 - [Krishna_Kumar](https://github.com/krishnak1808/Krishna_Kumar)
 - [pipe-MIPS32](https://github.com/krishnak1808/pipe-MIPS32)
@@ -18,5 +13,10 @@ This is my first repo adding to my github account.
 - [cpp_code](https://github.com/krishnak1808/cpp_code)
 - [python_code](https://github.com/krishnak1808/python_code)
 - [hdl_system_verilog](https://github.com/krishnak1808/hdl_system_verilog)
-- [RFID-Attendnce_System](https://github.com/krishnak1808/RFID-Attendence_System)
+- [RFID-Attendance_System](https://github.com/krishnak1808/RFID-Attendance_System)
 - [it-cert-automation-practice]
+
+
+# Private Repository
+* SomePythonCode
+* hackrf_one
