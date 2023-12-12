@@ -3,12 +3,12 @@ This is my first repo adding to my github account.
 
 
 # Private Repository
-- SomePythonCode
-- hackrf_one
+* SomePythonCode
+* hackrf_one
 
 
 # Public Repositoty
-- Krishna_Kumar
+- [Krishna_Kumar](https://github.com/krishnak1808/Krishna_Kumar)
 - cpp_code
 - python_code
 - hdl_system_verilog
