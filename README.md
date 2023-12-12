@@ -14,9 +14,10 @@ This is my first repo adding to my github account.
 - [python_code](https://github.com/krishnak1808/python_code)
 - [hdl_system_verilog](https://github.com/krishnak1808/hdl_system_verilog)
 - [RFID-Attendance_System](https://github.com/krishnak1808/RFID-Attendance_System)
-- [it-cert-automation-practice]
+- [it-cert-automation-practice](https://github.com/krishnak1808/it-cert-automation-practice)
 
 
 # Private Repository
-* SomePythonCode
+* studyroom
 * hackrf_one
+* SomePythonCode
