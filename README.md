@@ -1,4 +1,18 @@
-# firstrepo
+# Welcome to GitHub Account of Mr. Krishna Kumar
 This is my first repo adding to my github account.
 
-I am editing the README file. Adding some more details about the project description.
+
+# Private Repository
+- SomePythonCode
+- hackrf_one
+
+
+# Public Repositoty
+- Krishna_Kumar
+- cpp_code
+- python_code
+- hdl_system_verilog
+- pipe-MIPS32
+- RFID-Attendnce_System
+- it-cert-automation-practice
+- WordGameCode
