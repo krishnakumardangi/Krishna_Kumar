@@ -13,10 +13,10 @@ This is my first repo adding to my github account.
 
 # Public Repositoty
 - [Krishna_Kumar](https://github.com/krishnak1808/Krishna_Kumar)
-- cpp_code
-- python_code
-- hdl_system_verilog
-- pipe-MIPS32
-- RFID-Attendnce_System
-- it-cert-automation-practice
-- WordGameCode
+- [pipe-MIPS32](https://github.com/krishnak1808/pipe-MIPS32)
+- [WordGameCode](https://github.com/krishnak1808/WordGameCode)
+- [cpp_code](https://github.com/krishnak1808/cpp_code)
+- [python_code](https://github.com/krishnak1808/python_code)
+- [hdl_system_verilog](https://github.com/krishnak1808/hdl_system_verilog)
+- [RFID-Attendnce_System](https://github.com/krishnak1808/RFID-Attendence_System)
+- [it-cert-automation-practice]
