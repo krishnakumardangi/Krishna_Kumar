@@ -22,3 +22,4 @@ This is my first repo adding to my github account.
 * hackrf_one
 * OpenAirInterface5G(oai)
 * SomePythonCode
+* RFSoC
