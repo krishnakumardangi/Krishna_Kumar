@@ -7,11 +7,11 @@ Here are some basic Git commands:
 
 1. **git init**: Initializes a new Git repository in the current directory.
 
-2. **git clone [url]**: Clones a repository from a specified URL to your local machine.
+2. **git clone repoURL**: Clones a repository from a specified URL to your local machine.
 
-3. **git add [file]**: Adds a file or changes in a file to the staging area.
+3. **git add filename**: Adds a file or changes in a file to the staging area.
 
-4. **git commit -m "[message]"**: Commits changes from the staging area to the repository with a descriptive message.
+4. **git commit -m "your message"**: Commits changes from the staging area to the repository with a descriptive message.
 
 5. **git status**: Displays the status of changes (untracked, modified, staged) in the working directory.
 
